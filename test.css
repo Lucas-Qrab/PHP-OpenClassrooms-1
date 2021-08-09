@@ -1,0 +1,20 @@
+body{
+	background-color: #494953;
+}h1{
+	text-align: center;
+	font-size: 30pt;
+	color: #395597;
+	font-family: Roboto; 
+}label{
+	text-align: center;
+}form{
+	text-align: center;
+}#mdp{
+	border-radius: 20px;
+}#valider{
+	font-size: 14pt;
+	font-family: Roboto;
+	background-color: #1f3763;
+	color: white;
+	border-radius: 20px;
+}
